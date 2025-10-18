@@ -1,4 +1,5 @@
 #include <iostream>
+#
 #define MAXN 400000
 
 void NhapMang(int a[], int &n)
